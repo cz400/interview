@@ -1,4 +1,4 @@
-# 数据管道技术岗位笔试题
+# 数据分析技术岗位笔试题
 
 笔试材料地址：https://gitlab.com/ls84/interview.git
 
