@@ -1,0 +1,2 @@
+1、构建镜像 docker build -t python-test-1 .
+2、运行docker容器 docker run -it test
